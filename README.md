@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikhail Sundukov
 - 👀 I’m interested in anime, programming, computer games, motorcycles
-- 🌱 I’m currently learning C#, Unity and English
+- 🌱 I’m currently learning C#, Unity and English (offline Upper-Intermediate level course)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: miky-sundukov@yandex.ru phone: +79603739840 (telegram, viber) 
 
