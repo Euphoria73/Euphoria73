@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Euphoria73
+- 👋 Hi, I’m Mikhail Sundukov
 - 👀 I’m interested in anime, programming, computer games, motorcycles
 - 🌱 I’m currently learning C#, Unity and English
 - 💞️ I’m looking to collaborate on ...
