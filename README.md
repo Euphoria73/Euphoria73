@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime, programming, computer games, motorcycles
 - 🌱 I’m currently learning C#, Unity and English
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: email: miky-sundukov@yandex.ru phone: +79603739840 (telegram, vyber) 
 
 <!---
 Euphoria73/Euphoria73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
